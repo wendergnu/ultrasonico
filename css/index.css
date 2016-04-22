@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31/03/2016, 21:36:58
+    Author     : wender
+*/
+
+.icons{
+    font-size: 100px;    
+    width: 100%;
+    text-align: center;
+    margin: 80px 0 0 0 ;
+    cursor: pointer;
+}
+
+.vg-on{    
+    color: #0093dd;
+    font-size: 115px;
+}
